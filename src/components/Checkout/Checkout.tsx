@@ -1,6 +1,6 @@
 import { useContext, useState } from "react";
 import { Product } from "../../models";
-import { CheckoutCard } from "../CheckouCard";
+import { CheckoutCard } from "../CheckoutCard";
 
 import { ShopContext } from "../Context/useContext";
 import { Labels, PlaceOrder, PriceContainer, ProductsWrapper, Title, Total, TotalAmount, TotalAmountLabel, TotalItems, TotalItemsLabel } from "./Checkout.styled";
