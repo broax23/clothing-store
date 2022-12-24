@@ -17,10 +17,10 @@ export const TitleWrapper = styled.div`
   display: grid;
   row-gap: 10px;
 
-  a {
+  h1 {
     text-decoration: none;
     font-weight: bold;
-    color: #000;
+    color: #264653;
   }
 `;
 
@@ -31,7 +31,7 @@ export const LinksWrapper = styled.div`
 
   a {
     text-decoration: none;
-    color: #bb7250;
+    color: #2a9d8f;
 
     :hover {
       color: #bb7250;
